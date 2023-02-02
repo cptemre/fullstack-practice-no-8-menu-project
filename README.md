@@ -2,7 +2,7 @@
 
 <hr>
 
-![example1](public/menuProject2.png)
+![example2](public/menuProject2.png)
 
 # MENU PROJECT
 
